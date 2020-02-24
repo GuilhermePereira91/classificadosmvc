@@ -1,6 +1,6 @@
 <div class="container-fluid">
             <div class="jumbotron">
-                <h2>Nós temos hoje <?php echo $total_anuncios ?> anúncios.</h2>
+                <h2>Nós temos hoje cerca de <?php echo $total_anuncios ?> anúncios.</h2>
                 <p>E aproximadamente <?php echo $total_usuarios ?> usuários cadastrados.</p>
             </div>
             <div class="row">
